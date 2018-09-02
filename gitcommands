@@ -12,3 +12,12 @@ git status
 
 // To commit changes in git
 git commit -m 'your message'
+
+// To view commit made
+git log
+
+// To add remote repo address
+git remote add origin 'URI'
+
+// To push changes to remote repo master branch
+git push -u origin master
