@@ -21,3 +21,6 @@ git remote add origin 'URI'
 
 // To push changes to remote repo master branch
 git push -u origin master
+
+//To clone a git repo
+git clone https://github.com/janetdiana2018/gitlearn.git
