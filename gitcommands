@@ -1,0 +1,14 @@
+// Initialize git
+git init 
+
+// To add file for tracking
+git add 'filename'
+
+// To add all files for tracking
+git add .
+
+// To check track status of files
+git status
+
+// To commit changes in git
+git commit -m 'your message'
